@@ -28,7 +28,7 @@ class Modelo extends Model
     public $fillable = [
         'sku',
         'denominacion',
-        'color_id'
+        //'color_id'
     ];
 
     /**
